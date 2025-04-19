@@ -2,7 +2,7 @@
 
 ## I'm Jishan Saha
 
-I am currently pursuing Web Development because I have always had a keen interest in coding. This September, I started a web development course at Humber College. It's been a fantastic experience, and I'm enjoying the learning process. I hope to make new friends and gain references for my future endeavors in tech.
+I am currently pursuing Web Development because I have always had a keen interest in coding. In  September 2024, I started a web development course at Humber College. It's been a fantastic experience, and I'm enjoying the learning process. I hope to make new friends and gain references for my future endeavors in tech.
 
 ###  I’m currently learning:
 - C#
@@ -10,6 +10,11 @@ I am currently pursuing Web Development because I have always had a keen interes
 - JavaScript
 - Html
 - CSS
+- Node
+- react
+- Php
+- Laravel
+- MongoDB
 
 ###  How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/jishan-saha-3a61a3324/)
@@ -18,4 +23,4 @@ I am currently pursuing Web Development because I have always had a keen interes
 
 
 ### Fun fact:
-I love photography and traveling 🌏✈️
+I love photography and traveling  🌏✈️
